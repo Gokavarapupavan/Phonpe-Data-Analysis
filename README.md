@@ -26,7 +26,3 @@ This project involves the analysis and visualization of the PhonePe Pulse datase
 ### Purpose:
 
 The goal of this project is to provide actionable insights into India's digital payment ecosystem, empowering businesses, policymakers, and analysts to understand trends in mobile payments, user behavior, and regional preferences. The dashboard serves as a useful tool for monitoring the adoption of digital payment systems and identifying opportunities for further growth in different regions.
-
----
-
-You can adjust this description based on the specific aspects of your Power BI project. Let me know if you need any changes or additions!
