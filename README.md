@@ -1,7 +1,3 @@
-Sure! Here's your **README** content adapted to the format you've provided, specifically tailored for the **PhonePe Power BI Dashboard** shown in the screenshot:
-
----
-
 ## Power BI Dashboard: **PhonePe Pulse Dataset Analysis**
 
 This project involves the analysis and visualization of the PhonePe Pulse dataset using **Power BI**. The PhonePe Pulse dataset contains detailed information on transactions, geographical distribution, and payment types from PhonePe’s mobile payment platform across India. The goal is to create an interactive dashboard that highlights trends, growth, and regional distribution of digital transactions across time.
